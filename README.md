@@ -10,8 +10,9 @@ language: [[CH-ZH](./README-CH.md)]/[[EN](./README.md)]
 ## Hello there! I'm kevin_kai       
 <!---<img src="./assets/image.png" align = "right" width="450"></img>--->
 I form the taiwan this beateful country.
-I am a beck-end engginer and i also as a student.
-yep! I'm a Student but i have a 5 year work experience.
+I am a beck-end engginer and I also is a student.
+yep! I'm a Student form the NYUST
+in free time i will coding and read something work.
 ***
 # skill list:
 ### Back-end i use:
