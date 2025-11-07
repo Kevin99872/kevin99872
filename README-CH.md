@@ -15,7 +15,7 @@ language: [[CH-ZH](./README-CH.md)]/[[EN](./README.md)]
 通常我會在學校內及課餘時間練習大量的code及嘗試進行一些project
 
 ***
-#技能樹:
+# 技能樹:
 ### 後端開發我使用的語言:
 ![back-end](https://skillicons.dev/icons?i=c,cpp,cs,python,java,dotnet)
 ### 前端開發我使用的語言:
