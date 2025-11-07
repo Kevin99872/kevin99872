@@ -1,7 +1,8 @@
+<img src = "./assets/1234.gif" width ="100%" height = "400"></img>
+<div align = "center"><h1>Are you living a happy life?</h1>
 
-# 你好啊!
-歡迎來到我的自介
-language: [[CH-ZH](./README-CH.md)]/[[EN](./README.md)]
+## language: [[CH-ZH](./README-CH.md)]/[[EN](./README.md)]
+[![Ig](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kevin_yukai_030/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/%E4%BA%8E%E5%87%B1-%E5%91%A8-79a23a343/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kevin2005121103@gmail.com?subject=Hello_kevin,From_Github)
 ***
 # 關於我:
 <!--狀態列-->
