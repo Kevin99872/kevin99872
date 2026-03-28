@@ -30,8 +30,7 @@
 ***
 # 我的github歷史
 ![](https://leetcard.jacoblin.cool/kevin99872?ext=heatmap)
-![Github stats](https://github-readme-stats.vercel.app/api?username=kevin99872&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin99872&layout=compact&theme=blueberry&count_private=true&hide_border=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kevin99872&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api?kevin99872=anuraghazra&show_icons=true&theme=radical)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin99872)](https://github.com/ashutosh00710/github-readme-activity-graph)
 #

@@ -29,7 +29,8 @@ in free time i will coding and read something work.
 ![ide](https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,rider,powershell)
 ***
 # My Stats  
+![](https://leetcard.jacoblin.cool/kevin99872?ext=heatmap)
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kevin99872&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin99872&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=kevin99872&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevin99872)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevin99872)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
